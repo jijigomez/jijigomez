@@ -1,10 +1,10 @@
 from django.shortcuts import render
 
 # Create your views here.
-from django.views.generic.edit import CreateView
+from django.views.generic.list import ListView
 from .models import LoginModel
 
-class LoginCreateView(CreateView):
+class LoginList(ListView):
     model = LoginModel
     fields = ['username', 'password']  # Adjust the fields based on your model attributes
     template_name = 'loginmodel_form.html'  # Specify the template name

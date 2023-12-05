@@ -1,7 +1,7 @@
 from django.urls import path
-from .views import LoginCreateView
+from .views import LoginList
 
 urlpatterns = [
-    path('login/create/', LoginCreateView.as_view(), name='login_create'),
+    path('login/create/', LoginList.as_view(), name='login_create'),
     # Add more patterns as needed
 ]
