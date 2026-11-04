@@ -14,19 +14,39 @@ I specialize in building practical AI solutions, LLM-powered applications, Retri
 
 ## 🛠️ Technical Skills
 
-**Languages:** Python, SQL
+### 👩‍💻 Programming & Data Analysis
+<p>
+  <img src="https://skillicons.dev/icons?i=python,java,sql" height="45" />
+</p>
 
-**Machine Learning:** Scikit-learn, TensorFlow, Keras
+### 🤖 AI, Machine Learning & Deep Learning
+<p>
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv" height="45" />
+</p>
 
-**Generative AI:** LLMs, RAG, LangChain, Hugging Face, Embeddings
+### 🧠 Generative AI & LLM
+<p>
+  <img src="https://skillicons.dev/icons?i= huggingface" height="45" />
+</p>
 
-**Deep Learning:** CNN, Computer Vision, NLP, Transfer Learning
+**Technologies:** LangChain · RAG · LLMs · Prompt Engineering · Embeddings · Vector Databases
 
-**Backend:** Django, Flask, FastAPI, REST APIs
+### 🌐 Web Development & Frameworks
+<p>
+  <img src="https://skillicons.dev/icons?i=django,flask,fastapi,react" height="45" />
+</p>
 
-**Cloud:** AWS, EC2, S3, Docker
+### ☁️ Cloud & DevOps
+<p>
+  <img src="https://skillicons.dev/icons?i=aws,docker,git,github" height="45" />
+</p>
 
-**Data Analytics:** Pandas, NumPy, Power BI, Tableau
+### 📊 Data Visualization & Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=powerbi,anaconda,vscode,jupyter" height="45" />
+</p>
+
+**Libraries:** Pandas · NumPy · Scikit-learn · Keras · Matplotlib · Seaborn
 
 ## 🚀 Featured Projects
 
