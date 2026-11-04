@@ -1,73 +1,101 @@
 # Hi, I'm Jiji Gomez 👋
 
-### AI Engineer | Machine Learning Engineer | Generative AI Developer
+### AI Engineer | Machine Learning | Generative AI | Python
 
-AI Engineer with 3+ years of experience developing intelligent applications using Machine Learning, Deep Learning, and Generative AI.
+Building intelligent solutions with Machine Learning, Deep Learning and Generative AI.
 
-I specialize in building practical AI solutions, LLM-powered applications, Retrieval-Augmented Generation (RAG) systems, and scalable backend services.
+AI Engineer with 3+ years of experience developing AI/ML applications, LLM-powered solutions, recommendation systems and data-driven applications.
 
-- 🔭 Working on AI/ML and Generative AI applications
-- 🧠 Exploring LLMs, RAG, LangChain, and AI Agents
-- 💻 Developing intelligent applications using Python
-- ☁️ Interested in cloud-based AI deployment
-- 📍 Kerala, India
+📍 Kerala, India  
+💼 [LinkedIn](https://www.linkedin.com/in/jiji-gomez-640b2a24b/)  
+💻 [GitHub](https://github.com/jijigomez)
+
+---
+
+## 🚀 About Me
+
+- 🤖 Experienced in developing AI and Machine Learning applications.
+- 🧠 Working with LLMs, RAG architectures and Generative AI.
+- 📊 Interested in predictive analytics and intelligent recommendation systems.
+- 👁️ Exploring Computer Vision and Deep Learning.
+- ☁️ Experienced in deploying applications using AWS.
+- 🌱 Continuously learning and building practical AI solutions.
+
+---
 
 ## 🛠️ Technical Skills
 
-### 👩‍💻 Programming & Data Analysis
+### 💻 Programming Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=python,java,sql" height="45" />
+<img src="https://skillicons.dev/icons?i=python,java" height="45"/>
 </p>
 
-### 🤖 AI, Machine Learning & Deep Learning
+### 🤖 AI / Machine Learning / Deep Learning
 <p>
-  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv" height="45" />
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv" height="45"/>
 </p>
+
+**Libraries:** Scikit-learn · Pandas · NumPy · Keras · Matplotlib · Seaborn
 
 ### 🧠 Generative AI & LLM
 <p>
-  <img src="https://skillicons.dev/icons?i= huggingface" height="45" />
+<img src="https://skillicons.dev/icons?i=huggingface" height="45"/>
 </p>
 
-**Technologies:** LangChain · RAG · LLMs · Prompt Engineering · Embeddings · Vector Databases
+**Technologies:** LLMs · RAG · LangChain · Prompt Engineering · Embeddings · Vector Databases
 
-### 🌐 Web Development & Frameworks
+### 🌐 Frameworks & Web Development
 <p>
-  <img src="https://skillicons.dev/icons?i=django,flask,fastapi,react" height="45" />
+<img src="https://skillicons.dev/icons?i=django,flask,fastapi,react" height="45"/>
 </p>
 
 ### ☁️ Cloud & DevOps
 <p>
-  <img src="https://skillicons.dev/icons?i=aws,docker,git,github" height="45" />
+<img src="https://skillicons.dev/icons?i=aws,docker,git,github" height="45"/>
 </p>
 
-### 📊 Data Visualization & Tools
+### 📊 Data Analytics & Tools
 <p>
-  <img src="https://skillicons.dev/icons?i=powerbi,anaconda,vscode,jupyter" height="45" />
+<img src="https://skillicons.dev/icons?i=anaconda,vscode,jupyter" height="45"/>
 </p>
 
-**Libraries:** Pandas · NumPy · Scikit-learn · Keras · Matplotlib · Seaborn
-
-## 🚀 Featured Projects
-
-- AI-Based Real-Time Speech Enhancement
-- AI-Powered Recommendation System
-- Retrieval-Augmented Generation Applications
-- Computer Vision & Deep Learning
-- AI-Based Resume Parser
-
-## 📚 Currently Learning
-
-- Advanced RAG Architectures
-- LangGraph and AI Agents
-- LLM Evaluation
-- MLOps and Cloud AI Deployment
-
-## 🤝 Connect With Me
-
-- LinkedIn: [Jiji Gomez](https://www.linkedin.com/in/jiji-gomez-640b2a24b/)
-- GitHub: [jijigomez](https://github.com/jijigomez)
+**Tools:** Power BI · Tableau · Excel · SQL
 
 ---
 
-⭐ Building intelligent solutions through AI, data, and software engineering.
+## 💡 Featured Projects
+
+| Project | Description | Technologies |
+|---|---|---|
+| AI Recommendation System | Hybrid recommendation engine using collaborative and content-based filtering | Python, Django, ML, AWS |
+| RAG-Based Chatbot | Context-aware question answering using LLMs and retrieval | Python, LangChain, LLM |
+| AI Resume Parser | Resume information extraction and semantic matching | Python, NLP, Transformers |
+| AI Interview Evaluator | Automated interview assessment using AI | Python, NLP, GenAI |
+| Real-Time Speech Enhancement | AI-based background noise reduction and speech enhancement | Python, Audio Processing, Femto |
+| Computer Vision Projects | Image analysis and deep learning applications | Python, TensorFlow, OpenCV |
+
+---
+
+## 📈 GitHub Statistics
+
+<p>
+<img src="https://github-readme-stats.vercel.app/api?username=jijigomez&show_icons=true&theme=tokyonight" height="160"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jijigomez&layout=compact&theme=tokyonight" height="160"/>
+</p>
+
+---
+
+## 🤝 Connect With Me
+
+<p>
+<a href="https://www.linkedin.com/in/jiji-gomez-640b2a24b/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
+</a>
+<a href="https://github.com/jijigomez">
+<img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github"/>
+</a>
+</p>
+
+---
+
+⭐ *Building intelligent solutions, one project at a time.*
