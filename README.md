@@ -38,8 +38,15 @@ AI Engineer with 3+ years of experience developing AI/ML applications, LLM-power
 **Libraries:** Scikit-learn · Pandas · NumPy · Keras · Matplotlib · Seaborn
 
 ### 🧠 Generative AI & LLM
+
 <p>
-<img src="https://skillicons.dev/icons?i=huggingface" height="45"/>
+<img src="https://img.shields.io/badge/Generative%20AI-8A2BE2?style=for-the-badge&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/LLMs-412991?style=for-the-badge&logo=googlegemini&logoColor=white"/>
+<img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white"/>
+<img src="https://img.shields.io/badge/RAG-0066CC?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Prompt%20Engineering-7B68EE?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Vector%20Databases-008080?style=for-the-badge"/>
 </p>
 
 **Technologies:** LLMs · RAG · LangChain · Prompt Engineering · Embeddings · Vector Databases
